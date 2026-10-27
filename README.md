@@ -1,6 +1,6 @@
 # 海外AI工具周报 · AIToolWeekly
 
-> 💡 支持与完整整合包：https://afdian.com/a/AIToolWeekly
+> 💡 支持与完整整合包：https://afdian.com/a/AIToolWeekly｜screenshot-to-code 中文社区版整合包：https://afdian.com/item/e896ee28d1b311f18c5752540025c377
 
 这个仓库放两样东西：
 1. **海外AI工具周报**：每期挑选当周新出的海外（也收少量国内）AI 工具，用中文总结，每条都附原始出处。见 [`weekly/`](weekly/)。
@@ -63,4 +63,4 @@
 
 ---
 
-> 💡 支持与完整整合包：https://afdian.com/a/AIToolWeekly
+> 💡 支持与完整整合包：https://afdian.com/a/AIToolWeekly｜screenshot-to-code 中文社区版整合包：https://afdian.com/item/e896ee28d1b311f18c5752540025c377
