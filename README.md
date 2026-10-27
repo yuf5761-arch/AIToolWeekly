@@ -1,6 +1,12 @@
 # 海外AI工具周报 · AIToolWeekly
 
-> 💡 支持与完整整合包：https://afdian.com/a/AIToolWeekly｜screenshot-to-code 中文社区版整合包：https://afdian.com/item/e896ee28d1b311f18c5752540025c377
+> 💡 **screenshot-to-code 中文社区版整合包（爱发电，¥29.9）**：https://afdian.com/item/e896ee28d1b311f18c5752540025c377
+> - 买到什么：基于开源项目 abi/screenshot-to-code 整理的交付包——中文界面汉化；国内模型适配（新增 Chat Completions 接口，默认 Kimi，备选硅基流动）；Windows/Mac/Linux 一键启动脚本（仅 Linux 实测）；中文教程 4 篇 + FAQ；爱发电私信答疑。不含任何 API Key 或模型额度，Key 需自备、费用自付；不承诺生成效果。
+> - 价格：¥29.9。
+> - 怎么拿：付款后爱发电自动回复私信发送下载链接；链接打不开可私信我要备用网盘链接。
+> - 原项目 MIT 协议，作者 Abi Raja；我们不是原作者，本包为非官方社区版，与原作者无关。
+> - 登录爱发电后可看完整商品说明。
+> - 支持主页：https://afdian.com/a/AIToolWeekly
 
 这个仓库放两样东西：
 1. **海外AI工具周报**：每期挑选当周新出的海外（也收少量国内）AI 工具，用中文总结，每条都附原始出处。见 [`weekly/`](weekly/)。
@@ -63,4 +69,10 @@
 
 ---
 
-> 💡 支持与完整整合包：https://afdian.com/a/AIToolWeekly｜screenshot-to-code 中文社区版整合包：https://afdian.com/item/e896ee28d1b311f18c5752540025c377
+> 💡 **screenshot-to-code 中文社区版整合包（爱发电，¥29.9）**：https://afdian.com/item/e896ee28d1b311f18c5752540025c377
+> - 买到什么：基于开源项目 abi/screenshot-to-code 整理的交付包——中文界面汉化；国内模型适配（新增 Chat Completions 接口，默认 Kimi，备选硅基流动）；Windows/Mac/Linux 一键启动脚本（仅 Linux 实测）；中文教程 4 篇 + FAQ；爱发电私信答疑。不含任何 API Key 或模型额度，Key 需自备、费用自付；不承诺生成效果。
+> - 价格：¥29.9。
+> - 怎么拿：付款后爱发电自动回复私信发送下载链接；链接打不开可私信我要备用网盘链接。
+> - 原项目 MIT 协议，作者 Abi Raja；我们不是原作者，本包为非官方社区版，与原作者无关。
+> - 登录爱发电后可看完整商品说明。
+> - 支持主页：https://afdian.com/a/AIToolWeekly
